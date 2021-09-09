@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\youtubeTarpa\yutubeTapra\ExcelWrite\obj\Debug\netcoreapp3.1\ExcelWrite.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\youtubeTarpa\yutubeTapra\ExcelWrite\obj\Debug\netcoreapp3.1\ExcelWrite.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\youtubeTarpa\yutubeTapra\ExcelWrite\obj\Debug\netcoreapp3.1\ExcelWrite.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\youtubeTarpa\yutubeTapra\ExcelWrite\obj\Debug\netcoreapp3.1\ExcelWrite.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\youtubeTarpa\yutubeTapra\ExcelWrite\bin\Debug\netcoreapp3.1\NOTICE.TXT
+C:\Users\Administrator\Desktop\youtubeTarpa\yutubeTapra\ExcelWrite\bin\Debug\netcoreapp3.1\ExcelWrite.deps.json
+C:\Users\Administrator\Desktop\youtubeTarpa\yutubeTapra\ExcelWrite\bin\Debug\netcoreapp3.1\ExcelWrite.dll
+C:\Users\Administrator\Desktop\youtubeTarpa\yutubeTapra\ExcelWrite\bin\Debug\netcoreapp3.1\ExcelWrite.pdb
+C:\Users\Administrator\Desktop\youtubeTarpa\yutubeTapra\ExcelWrite\obj\Debug\netcoreapp3.1\ExcelWrite.dll
+C:\Users\Administrator\Desktop\youtubeTarpa\yutubeTapra\ExcelWrite\obj\Debug\netcoreapp3.1\ExcelWrite.pdb

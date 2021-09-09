@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\youtubeTarpa\yutubeTapra\Selenium\bin\Debug\netcoreapp3.1\Selenium.deps.json
+C:\Users\Administrator\Desktop\youtubeTarpa\yutubeTapra\Selenium\bin\Debug\netcoreapp3.1\Selenium.dll
+C:\Users\Administrator\Desktop\youtubeTarpa\yutubeTapra\Selenium\bin\Debug\netcoreapp3.1\Selenium.pdb
+C:\Users\Administrator\Desktop\youtubeTarpa\yutubeTapra\Selenium\obj\Debug\netcoreapp3.1\Selenium.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\youtubeTarpa\yutubeTapra\Selenium\obj\Debug\netcoreapp3.1\Selenium.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\youtubeTarpa\yutubeTapra\Selenium\obj\Debug\netcoreapp3.1\Selenium.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\youtubeTarpa\yutubeTapra\Selenium\obj\Debug\netcoreapp3.1\Selenium.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\youtubeTarpa\yutubeTapra\Selenium\obj\Debug\netcoreapp3.1\Selenium.dll
+C:\Users\Administrator\Desktop\youtubeTarpa\yutubeTapra\Selenium\obj\Debug\netcoreapp3.1\Selenium.pdb
